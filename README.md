@@ -1,1 +1,1 @@
-# Motion-Sensor-Detection
+This is motion sense dectector made using python.
